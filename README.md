@@ -43,8 +43,3 @@ cd server
 npm run dev
 # Run backend only
 npm run server
-
-# Build & Deploy
-Create frontend prod build
-cd frontend
-npm run build
