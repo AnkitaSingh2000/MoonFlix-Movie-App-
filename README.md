@@ -33,13 +33,13 @@
 
 
 # Install Dependencies (frontend & backend)
-npm install
-cd client
-npm install
-cd server
+- cd client
+- npm install
+- cd server
+- npm install
 
 # Run
 # Run frontend (:2000) & backend (:2000)
-npm run dev
+- npm run dev
 # Run backend only
-npm run server
+- npm run server
