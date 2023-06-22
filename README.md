@@ -26,10 +26,10 @@
 - mongoose
 
 # dotenv 
--MONGODB_URL = development
--PORT=2000
--JWT_SECRET = putYourSecret
--MONGO_URI = your mongodb uri
+- MONGODB_URL = development
+- PORT=2000
+- JWT_SECRET = putYourSecret
+- MONGO_URI = your mongodb uri
 
 
 # Install Dependencies (frontend & backend)
@@ -38,9 +38,13 @@ cd client
 npm install
 cd server
 
+# Run
+# Run frontend (:2000) & backend (:2000)
+npm run dev
+# Run backend only
+npm run server
 
 # Build & Deploy
-
-#Create frontend prod build
+Create frontend prod build
 cd frontend
 npm run build
