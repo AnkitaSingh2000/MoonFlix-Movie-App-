@@ -9,18 +9,37 @@
 ![image](https://github.com/AnkitaSingh2000/MoonFlix-Movie-App-/assets/89559467/3af1221d-ed28-43f7-9768-7b5c502ee7b2)
 
 # Features
+- Sign up / Sign in
+- Save movie to Favorite list (Remove favorite item)
+- Write review for movie (Delete review)
+- Search movies / tv series / people
+- Light / Dark theme
 
 
 # Libraries & Framework
-
+mongoDB
+express
+react
+node
+react-router-dom
+jwt
+mongoose
 
 # dotenv 
+MONGODB_URL = development
+PORT=2000
+JWT_SECRET = putYourSecret
+MONGO_URI = your mongodb uri
 
 
 # Install Dependencies (frontend & backend)
+npm install
+cd client
+npm install
+cd server
 
 
 # Build & Deploy
-
-
-
+# Create frontend prod build
+cd frontend
+npm run build
