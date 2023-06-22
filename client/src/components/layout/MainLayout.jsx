@@ -41,9 +41,9 @@ const MainLayout = () => {
 
   return (
     <>
-      {/* global loading */}
+      {/* global_loading */}
       <GlobalLoading />
-      {/* global loading */}
+      {/* global_loading */}
 
       {/* login modal */}
       <AuthModal />
@@ -55,12 +55,7 @@ const MainLayout = () => {
         {/* header */}
 
         {/* main */}
-        <Box
-          component="main"
-          flexGrow={1}
-          overflow="hidden"
-          minHeight="100vh"
-        >
+        <Box component="main" flexGrow={1} overflow="hidden" minHeight="100vh">
           <Outlet />
         </Box>
         {/* main */}
