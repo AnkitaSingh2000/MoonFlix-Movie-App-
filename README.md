@@ -1,12 +1,13 @@
 # MoonFlix (Movie Application)
 
-![image](https://github.com/AnkitaSingh2000/MoonFlix-Movie-App-/assets/89559467/f277cd9b-442f-428c-aca2-07a7499649ab)
 
-![image](https://github.com/AnkitaSingh2000/MoonFlix-Movie-App-/assets/89559467/87b79eb1-6e2d-4169-b08f-73b48484b29c)
+![Screenshot (431)](https://github.com/AnkitaSingh2000/MoonFlix-Movie-App-/assets/89559467/e2c53ac2-0a69-48f9-a75c-c7f00cb39b5e)
 
-![image](https://github.com/AnkitaSingh2000/MoonFlix-Movie-App-/assets/89559467/0e4466f6-bf78-482d-ab2f-b1ae56e2c1f7)
+![Screenshot (432)](https://github.com/AnkitaSingh2000/MoonFlix-Movie-App-/assets/89559467/5228c732-9900-4087-8b42-751ad6fded2a)
 
-![image](https://github.com/AnkitaSingh2000/MoonFlix-Movie-App-/assets/89559467/3af1221d-ed28-43f7-9768-7b5c502ee7b2)
+![Screenshot (433)](https://github.com/AnkitaSingh2000/MoonFlix-Movie-App-/assets/89559467/364ec56b-fb64-45ce-b4c2-5c78aeaa945a)
+
+![Screenshot (434)](https://github.com/AnkitaSingh2000/MoonFlix-Movie-App-/assets/89559467/82d66811-b4ed-4cca-9c68-41238f1e5454)
 
 # Features
 - Sign up / Sign in
